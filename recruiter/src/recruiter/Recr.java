@@ -126,6 +126,6 @@ public class Recr {
 		id(prop.getProperty("domainexpo2")).click();
 		d.manage().timeouts().implicitlyWait(25, TimeUnit.SECONDS);
 		id(prop.getProperty("postmyjob")).click();
-
+		xp(prop.getProperty("closebtn")).click();
 	}
 }
