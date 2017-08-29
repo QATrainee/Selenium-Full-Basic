@@ -107,14 +107,14 @@ public class Techfetch2 {
 		}
 	}
 	}
-/*
+
 @Test (dependsOnMethods = { "update" })
 	public void upload() throws Exception {
 		// uploading a resume from external path
 		/**
 		 * @author karthiga balapriya work name : upload
 		 */
-	/*	File file = new File("D:\\Workspace\\TechFetch.Automation\\Locator.properties");
+		File file = new File("D:\\Workspace\\TechFetch.Automation\\Locator.properties");
 		FileInputStream fileInput;
 		fileInput = new FileInputStream(file);
 		Properties prop = new Properties();
