@@ -1,0 +1,94 @@
+28/07/2017 15:37:49 devpinoyLogger Opening Techfetch webiste
+28/07/2017 15:37:50 devpinoyLogger Opening candidate menu
+28/07/2017 15:37:55 devpinoyLogger Clicking Login button
+28/07/2017 15:38:05 devpinoyLogger Entering mailid
+28/07/2017 15:38:06 devpinoyLogger Entering password
+28/07/2017 15:38:14 devpinoyLogger Clicking submit button
+28/07/2017 15:38:25 devpinoyLogger Clicking Replacedocs
+28/07/2017 15:38:41 devpinoyLogger Uploading Resume
+28/07/2017 15:38:54 devpinoyLogger Clicking Submit button
+28/07/2017 15:38:57 devpinoyLogger Clicking Close button
+28/07/2017 15:39:10 devpinoyLogger Clicking Profile
+28/07/2017 15:39:10 devpinoyLogger No of Windows:2
+28/07/2017 15:39:22 devpinoyLogger Downloading Profile
+28/07/2017 15:39:27 devpinoyLogger Clicking Forward Button
+28/07/2017 15:39:39 devpinoyLogger Entering Forward Mailid
+28/07/2017 15:39:42 devpinoyLogger Clicking SendButton
+28/07/2017 15:39:43 devpinoyLogger Clicking CloseButton
+28/07/2017 15:39:44 devpinoyLogger Opening MyResume
+28/07/2017 15:39:46 devpinoyLogger Selecting AddResume
+28/07/2017 15:39:57 devpinoyLogger Entering FirstName
+28/07/2017 15:39:57 devpinoyLogger Entering MiddleName
+28/07/2017 15:39:57 devpinoyLogger Entering LastName
+28/07/2017 15:39:59 devpinoyLogger Selecting Country
+28/07/2017 15:40:00 devpinoyLogger Entering City,state or zip
+28/07/2017 15:40:00 devpinoyLogger Entering MobilePhone
+28/07/2017 15:40:00 devpinoyLogger Entering HomePhone
+28/07/2017 15:40:00 devpinoyLogger Entering WorkPhone
+28/07/2017 15:40:00 devpinoyLogger Entering Extension
+28/07/2017 15:40:01 devpinoyLogger Selecting PrefferedTime
+28/07/2017 15:40:01 devpinoyLogger Selecting Home
+28/07/2017 15:40:01 devpinoyLogger Selecting Citizen
+28/07/2017 15:40:02 devpinoyLogger Clicking WorkAuthorization
+28/07/2017 15:40:02 devpinoyLogger Selecting NeedNewH1B
+28/07/2017 15:40:02 devpinoyLogger clearing upload
+28/07/2017 15:40:02 devpinoyLogger Selecting Resume
+28/07/2017 15:40:23 devpinoyLogger Clicking Submit button
+28/07/2017 15:40:33 devpinoyLogger Switching to Professional
+28/07/2017 15:40:34 devpinoyLogger Selecting Bachelor button on Highest degree
+28/07/2017 15:40:34 devpinoyLogger Selecting Expected salary per year
+28/07/2017 15:40:34 devpinoyLogger Selecting Expected salary per hour
+28/07/2017 15:40:35 devpinoyLogger Entering job title
+28/07/2017 15:40:35 devpinoyLogger Selecting total experience
+28/07/2017 15:40:35 devpinoyLogger Clicking Value 
+28/07/2017 15:40:35 devpinoyLogger Selecting USA experience
+28/07/2017 15:40:35 devpinoyLogger Entering resume title
+28/07/2017 15:40:35 devpinoyLogger Uploading resume
+28/07/2017 15:40:53 devpinoyLogger Clicking save and next button
+28/07/2017 15:40:54 devpinoyLogger Selecting specialized area
+28/07/2017 15:40:54 devpinoyLogger Selecting specialized skills
+28/07/2017 15:40:54 devpinoyLogger Entering skill1
+28/07/2017 15:40:54 devpinoyLogger Selecting years for skill1 
+28/07/2017 15:40:55 devpinoyLogger Clicking save and next button
+28/07/2017 15:41:05 devpinoyLogger Clicking preferred employment 
+28/07/2017 15:41:05 devpinoyLogger Selecting resume publishing options 
+28/07/2017 15:41:05 devpinoyLogger Selecting domain experience
+28/07/2017 15:41:05 devpinoyLogger Clicking save and next button
+28/07/2017 15:41:15 devpinoyLogger Entering keywords 
+28/07/2017 15:41:15 devpinoyLogger Clicking job type 
+28/07/2017 15:41:16 devpinoyLogger Entering job with title 
+28/07/2017 15:41:16 devpinoyLogger Selecting years
+28/07/2017 15:41:17 devpinoyLogger Entering alert name 
+28/07/2017 15:41:17 devpinoyLogger Clicking save and next button
+28/07/2017 15:41:19 devpinoyLogger clicking the my jobs tab
+28/07/2017 15:41:22 devpinoyLogger clicking fetch job tab
+28/07/2017 15:41:33 devpinoyLogger move to content frame
+28/07/2017 15:41:33 devpinoyLogger Entering the keyword
+28/07/2017 15:41:33 devpinoyLogger select the type
+28/07/2017 15:41:33 devpinoyLogger select the country
+28/07/2017 15:41:33 devpinoyLogger select the specialized skills
+28/07/2017 15:41:33 devpinoyLogger click the browse button
+28/07/2017 15:41:35 devpinoyLogger select the state
+28/07/2017 15:41:36 devpinoyLogger Clicking prefered employment
+28/07/2017 15:41:36 devpinoyLogger Clicking the work authorization
+28/07/2017 15:41:36 devpinoyLogger Clicking the work authorization
+28/07/2017 15:41:36 devpinoyLogger Clicking the work authorization
+28/07/2017 15:41:36 devpinoyLogger Clicking the work authorization
+28/07/2017 15:41:36 devpinoyLogger Clicking the work authorization
+28/07/2017 15:41:36 devpinoyLogger Clicking the work authorization
+28/07/2017 15:41:37 devpinoyLogger Clicking the work authorization
+28/07/2017 15:41:37 devpinoyLogger Clickingthe check remote option
+28/07/2017 15:41:37 devpinoyLogger Clicking the exclude words
+28/07/2017 15:41:37 devpinoyLogger Selecting a job within a days/months/years
+28/07/2017 15:41:40 devpinoyLogger Clicking a fetch job button
+28/07/2017 15:41:46 devpinoyLogger Clicking JobAlert menu 
+28/07/2017 15:41:46 devpinoyLogger Clicking Create jobalert 
+28/07/2017 15:41:57 devpinoyLogger Selecting profile 
+28/07/2017 15:41:59 devpinoyLogger Entering exclude company name
+28/07/2017 15:42:04 devpinoyLogger Clicking save alert
+28/07/2017 15:42:10 devpinoyLogger Clicking alertlist
+28/07/2017 15:42:25 devpinoyLogger Clicking Features button
+28/07/2017 15:42:34 devpinoyLogger Clicking Demand index button
+28/07/2017 15:42:46 devpinoyLogger Clicking Profilebutton
+28/07/2017 15:43:12 devpinoyLogger Clicking user settings 
+28/07/2017 15:43:27 devpinoyLogger Clicking logout button 
