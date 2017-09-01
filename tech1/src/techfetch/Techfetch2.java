@@ -108,7 +108,7 @@ public class Techfetch2 {
 	}
 	}
 
-@Test (dependsOnMethods = { "update" })
+@Test (dependsOnMethods = { "Login" })
 	public void upload() throws Exception {
 		// uploading a resume from external path
 		/**
@@ -151,7 +151,7 @@ public class Techfetch2 {
 		/**
 		 * @author Arun Sakthi work name : profile
 		 */
-		/*File file = new File("D:\\Workspace\\TechFetch.Automation\\Locator.properties");
+	File file = new File("D:\\Workspace\\TechFetch.Automation\\Locator.properties");
 		FileInputStream fileInput;
 		fileInput = new FileInputStream(file);
 		Properties prop = new Properties();
@@ -213,7 +213,6 @@ public class Techfetch2 {
 
 
 //for official
-/*
 @Test (dependsOnMethods = { "forward" })
 	public void update() throws Exception {
 		// creating a profile and perform edit and update
@@ -222,7 +221,7 @@ public class Techfetch2 {
 		 */
 		// driver.switchTo().defaultContent();
 		// driver.switchTo().frame("contentframe");
-		/*File file = new File("D:\\Workspace\\TechFetch.Automation\\Locator.properties");
+		File file = new File("D:\\Workspace\\TechFetch.Automation\\Locator.properties");
 		FileInputStream fileInput;
 		fileInput = new FileInputStream(file);
 		Properties prop = new Properties();
@@ -386,7 +385,7 @@ public class Techfetch2 {
 		driver.switchTo().defaultContent();
 		Thread.sleep(1000);
 		driver.findElement(By.xpath(".//*[@id='cssmenu']/ul/li[3]/a")).click();
-	}*/
+	}
 
 
 
@@ -394,7 +393,7 @@ public class Techfetch2 {
 
 
 //for unofficial
-@Test (dependsOnMethods ={ "Login" })
+@Test (dependsOnMethods ={ "forward" })
 public void update() throws Exception {
 	// creating a profile and perform edit and update
 	/**
@@ -610,14 +609,13 @@ Thread.sleep(1000);
 
 
 
-/*
 @Test (dependsOnMethods = { "update" })
 	public void fetch() throws Exception {
 		// fetching the job based on resume detail
 		/**
 		 * @author Durga work name : myjob
 		 */
-/*File file = new File("D:\\Workspace\\TechFetch.Automation\\Locator.properties");
+	File file = new File("D:\\Workspace\\TechFetch.Automation\\Locator.properties");
 		FileInputStream fileInput;
 		fileInput = new FileInputStream(file);
 		Properties prop = new Properties();
@@ -703,7 +701,7 @@ Thread.sleep(1000);
 		/**
 		 * @author sans work name : jobalert
 		 */
-/*File file = new File("D:\\Workspace\\TechFetch.Automation\\Locator.properties");
+File file = new File("D:\\Workspace\\TechFetch.Automation\\Locator.properties");
 		FileInputStream fileInput;
 		fileInput = new FileInputStream(file);
 		Properties prop = new Properties();
@@ -767,7 +765,7 @@ Thread.sleep(1000);
 		 * driver.findElement(By.xpath(".//*[@id='fileCL']"));
 		 * driver.findElement(By.xpath(".//*[@id='fileCL']")).click();
 		 */
-	/*	driver.switchTo().defaultContent();
+		driver.switchTo().defaultContent();
 
 	}
 @Test (dependsOnMethods = { "listing" })
@@ -776,7 +774,7 @@ Thread.sleep(1000);
 		/**
 		 * @author Ram Sastha work name : features
 		 */
-	/*	driver.findElement(By.xpath(".//*[@id='cssmenu']/ul/li[6]/a")).click();
+		driver.findElement(By.xpath(".//*[@id='cssmenu']/ul/li[6]/a")).click();
 		log.info("Clicking Features button");
 		Thread.sleep(1000);
 		driver.findElement(By.xpath(".//*[@id='demandindextab']")).click();
@@ -818,7 +816,7 @@ Thread.sleep(1000);
 			}
 		}
 
-	}*/
+	}
 @Test (dependsOnMethods = { "update" })
 	public void logout() throws Exception {
 		// performing logout
@@ -839,7 +837,7 @@ Thread.sleep(1000);
 		Thread.sleep(10000);
 	}
 	}
-/*@Test
+@Test
 	public void finish() throws Exception {
 		// performing overall action
 		/**
@@ -853,4 +851,4 @@ Thread.sleep(1000);
 		listing();
 		features();
 		logout();
-	}*/
+	}
