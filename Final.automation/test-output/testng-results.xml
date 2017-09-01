@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="158282" started-at="2017-08-08T05:49:21Z" finished-at="2017-08-08T05:52:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="158282" started-at="2017-08-08T05:49:21Z" finished-at="2017-08-08T05:52:00Z">
+      <class name="finalTest.FinalTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:finalTest.FinalTest@42dafa95]" name="f" is-config="true" duration-ms="56621" started-at="2017-08-08T11:19:21Z" finished-at="2017-08-08T11:20:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="g()[pri:0, instance:finalTest.FinalTest@42dafa95]" name="g" duration-ms="68570" started-at="2017-08-08T11:20:18Z" finished-at="2017-08-08T11:21:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g -->
+        <test-method status="PASS" signature="h()[pri:0, instance:finalTest.FinalTest@42dafa95]" name="h" is-config="true" duration-ms="33070" started-at="2017-08-08T11:21:26Z" finished-at="2017-08-08T11:22:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h -->
+      </class> <!-- finalTest.FinalTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
